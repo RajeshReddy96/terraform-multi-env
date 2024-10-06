@@ -1,5 +1,5 @@
 variable "instances" {
-  type = map(any)
+  type = map
 
 }
 
